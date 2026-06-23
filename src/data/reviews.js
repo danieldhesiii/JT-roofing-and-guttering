@@ -18,7 +18,7 @@ export const reviews = [
     name: 'Lyn',
     role: 'Homeowner',
     quote:
-      'Quality work and a professional manner throughout. What stood out most was the standard of cleanliness — they left everything spotless.',
+      'Quality work and a professional manner throughout. What stood out most was the standard of cleanliness. They left everything spotless.',
     rating: 5,
   },
 ]

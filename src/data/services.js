@@ -43,7 +43,7 @@ export const services = [
     icon: 'lead',
     tagline: 'Expert lead flashing, valleys & detailing.',
     intro:
-      'Leadwork is where roofs leak most often — and where craftsmanship really shows. Our team dresses and fits code-correct lead to valleys, chimneys, dormers and abutments for a finish that’s both watertight and looks the part.',
+      "Leadwork is where roofs leak most often, and where craftsmanship really shows. Our team dresses and fits code-correct lead to valleys, chimneys, dormers and abutments for a finish that’s both watertight and looks the part.",
     image: '/images/gallery/roof-12.jpg',
     bullets: [
       'Lead valleys, soakers and step flashings',
@@ -60,7 +60,7 @@ export const services = [
     icon: 'slate',
     tagline: 'Natural slate, laid the traditional way.',
     intro:
-      'Natural slate is timeless, durable and beautiful — but it demands skill to lay properly. We re-slate roofs with natural and fibre-cement slate, matching existing work on period and character properties to the finest detail.',
+      'Natural slate is timeless, durable and beautiful, but it demands skill to lay properly. We re-slate roofs with natural and fibre-cement slate, matching existing work on period and character properties to the finest detail.',
     image: '/images/gallery/roof-03.jpg',
     bullets: [
       'Natural & fibre-cement slate roofing',
@@ -77,7 +77,7 @@ export const services = [
     icon: 'gutter',
     tagline: 'Guttering, fascias & soffits that protect your home.',
     intro:
-      'Failing guttering is the silent cause of damp, rot and damaged brickwork. We supply and fit new UPVC guttering, fascias, soffits and downpipes — protecting your home from water damage with a crisp, maintenance-free finish.',
+      'Failing guttering is the silent cause of damp, rot and damaged brickwork. We supply and fit new UPVC guttering, fascias, soffits and downpipes, protecting your home from water damage with a crisp, maintenance-free finish.',
     image: '/images/gallery/roof-14.jpg',
     bullets: [
       'New UPVC guttering and downpipes',
@@ -101,7 +101,7 @@ export const services = [
       'Slipped, cracked and missing tiles or slates',
       'Storm and weather damage put right',
       'Ridge, flashing and chimney repairs',
-      'Honest advice — repair, not always replace',
+      'Honest advice: repair, not always replace',
       'Prompt response across Exeter & surrounding areas',
     ],
   },

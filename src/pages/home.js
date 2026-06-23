@@ -64,7 +64,7 @@ function servicesSection() {
           <span class="eyebrow">What we do</span>
           <h2>Specialist roofing, from a single tile to a full re-roof</h2>
         </div>
-        <p>Whatever the job, you get the same craft and the same care — and a crew that cleans up after itself.</p>
+        <p>Whatever the job, you get the same craft and the same care, and a crew that cleans up after itself.</p>
       </div>
       <div class="services-grid">${cards}</div>
     </div>
@@ -86,11 +86,11 @@ function aboutSection() {
         <div class="about-copy" data-reveal data-reveal-delay="1">
           <span class="eyebrow">Why JT Roofing</span>
           <h2>A local name worth trusting with your roof</h2>
-          <p>We're a family-run roofing and guttering firm built on word of mouth and repeat custom. For more than four decades we've looked after homes across ${site.serviceArea} — and we treat every roof like it's our own.</p>
+          <p>We're a family-run roofing and guttering firm built on word of mouth and repeat custom. For more than four decades we've looked after homes across ${site.serviceArea}, and we treat every roof like it's our own.</p>
           <ul class="about-points">
-            <li>${icon('check')} <span><strong>Straight answers.</strong> If a repair will do the job, we'll say so — we won't sell you a roof you don't need.</span></li>
+            <li>${icon('check')} <span><strong>Straight answers.</strong> If a repair will do the job, we'll say so. We won't sell you a roof you don't need.</span></li>
             <li>${icon('check')} <span><strong>Tidy crews.</strong> Your property left clean at the end of every day.</span></li>
-            <li>${icon('check')} <span><strong>Work that's guaranteed</strong> — and fully insured, for real peace of mind.</span></li>
+            <li>${icon('check')} <span><strong>Work that's guaranteed</strong>, and fully insured, for real peace of mind.</span></li>
           </ul>
           <div class="stats">
             <div class="stat"><div class="n"><span data-count="40" data-suffix="+"></span></div><div class="t">Years experience</div></div>
@@ -119,7 +119,7 @@ function galleryTeaser() {
       <div class="section-head center">
         <span class="eyebrow">Our work</span>
         <h2>Real roofs, real results</h2>
-        <p>Recent jobs from around the area — every one finished to the same standard.</p>
+        <p>Recent jobs from around the area, every one finished to the same standard.</p>
       </div>
       <div class="gallery-grid">${tiles}</div>
       <div style="text-align:center;margin-top:2.5rem">

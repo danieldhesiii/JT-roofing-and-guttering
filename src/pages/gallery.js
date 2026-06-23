@@ -25,7 +25,7 @@ function galleryContent() {
       <div class="crumbs"><a href="/">Home</a> / Gallery</div>
       <span class="eyebrow" style="color:#fff">Our work</span>
       <h1 data-split>Gallery</h1>
-      <p>A selection of real jobs completed across ${site.serviceArea} — new roofs, slate, leadwork, flat roofs, guttering and repairs.</p>
+      <p>A selection of real jobs completed across ${site.serviceArea}: new roofs, slate, leadwork, flat roofs, guttering and repairs.</p>
     </div>
   </section>
 
