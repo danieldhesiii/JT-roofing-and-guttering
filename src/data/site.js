@@ -9,7 +9,7 @@ const whatsappMessage = "Hi JT Roofing, I'd like a free quote please."
 export const site = {
   name: 'JT Roofing & Guttering',
   shortName: 'JT Roofing',
-  tagline: 'Local & trusted roofing — over 40 years in the trade',
+  tagline: 'Local & trusted roofing, over 40 years in the trade',
   yearsExperience: 40,
   serviceArea: 'Exeter & surrounding areas',
   description:

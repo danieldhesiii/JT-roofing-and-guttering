@@ -15,7 +15,7 @@ function heroSection() {
     <div class="container">
       <span class="hero-eyebrow">${icon('pin')} ${site.serviceArea}</span>
       <h1 data-split>Roofing &amp; guttering, <span class="accent">done properly.</span></h1>
-      <p class="hero-sub">A family firm with over ${site.yearsExperience} years on the tools — new roofs, flat roofs, leadwork, slate, guttering and repairs. Honest advice, tidy work, and a roof that lasts.</p>
+      <p class="hero-sub">A family firm with over ${site.yearsExperience} years on the tools. New roofs, flat roofs, leadwork, slate, guttering and repairs. Honest advice, tidy work, and a roof that lasts.</p>
       <div class="hero-actions">
         <a class="btn btn-primary btn-lg" href="/contact.html">Get a free quote ${icon('arrow')}</a>
         <a class="btn btn-wa btn-lg" href="${site.whatsapp.url}" target="_blank" rel="noopener">${icon('whatsapp')} Chat on WhatsApp</a>

@@ -30,7 +30,7 @@ function contactContent() {
           <div class="contact-info">
             <div class="contact-row">
               <span class="ic">${icon('whatsapp')}</span>
-              <div><h4>WhatsApp</h4><a href="${site.whatsapp.url}" target="_blank" rel="noopener">Chat to us now — ${site.phone.primary}</a></div>
+              <div><h4>WhatsApp</h4><a href="${site.whatsapp.url}" target="_blank" rel="noopener">Chat to us now on ${site.phone.primary}</a></div>
             </div>
             <div class="contact-row">
               <span class="ic">${icon('phone')}</span>

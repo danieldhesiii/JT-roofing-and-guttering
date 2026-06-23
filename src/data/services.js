@@ -9,7 +9,7 @@ export const services = [
     icon: 'roof',
     tagline: 'Full re-roofs built to last decades.',
     intro:
-      'A new roof is one of the biggest investments in your home — so it pays to get it right. We strip, prepare and re-roof using quality tiles and breathable membranes, leaving you with a watertight roof guaranteed to perform for decades.',
+      'A new roof is one of the biggest investments in your home, so it pays to get it right. We strip, prepare and re-roof using quality tiles and breathable membranes, leaving you with a watertight roof guaranteed to perform for decades.',
     image: '/images/gallery/roof-05.jpg',
     bullets: [
       'Complete strip and re-roof of any property',
@@ -26,7 +26,7 @@ export const services = [
     icon: 'flat',
     tagline: 'Modern, seamless flat roofing systems.',
     intro:
-      'Extensions, garages, dormers and porches all need a flat roof that won’t leak. We install modern felt, EPDM rubber and GRP fibreglass systems that stay watertight for years — no more pooling, no more patch jobs.',
+      "Extensions, garages, dormers and porches all need a flat roof that won’t leak. We install modern felt, EPDM rubber and GRP fibreglass systems that stay watertight for years. No more pooling, no more patch jobs.",
     image: '/images/gallery/roof-09.jpg',
     bullets: [
       'Torch-on felt, EPDM rubber & GRP fibreglass',
@@ -94,7 +94,7 @@ export const services = [
     icon: 'repair',
     tagline: 'Fast, reliable fixes for leaks & storm damage.',
     intro:
-      'Spotted a leak, a slipped tile or storm damage? We carry out prompt, honest roof repairs — diagnosing the real problem and fixing it properly, not just papering over it. Emergency call-outs available across the area.',
+      'Spotted a leak, a slipped tile or storm damage? We carry out prompt, honest roof repairs, diagnosing the real problem and fixing it properly, not just papering over it. Emergency call-outs available across the area.',
     image: '/images/gallery/roof-04.jpg',
     bullets: [
       'Leak detection and lasting repairs',
