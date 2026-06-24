@@ -10,7 +10,7 @@
     border-color 0.2s var(--ease), transform 0.12s var(--ease);
   white-space: nowrap;
 }
-.btn .icon { width: 1.1em; height: 1.1em; }
+.btn .icon { width: 1.1em; height: 1.1em; flex: none; }
 .btn:hover { transform: translateY(-1px); }
 .btn:active { transform: translateY(1px); }
 
